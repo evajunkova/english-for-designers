@@ -17,10 +17,10 @@ STEP ONE:
 Draw thin rectangle about 45 degrees.
 
 STEP TWO:
-Draw four circles inside the rectangle. Three circles on the right side and one circle on the left side.
+Draw four circles inside the rectangle. Three circles on the left side and one circle on the right side.
 
 STEP THREE:
-Color black the middle circle on the left.
+Color black the middle circle on the left side of the rectangle.
 
 STEP FOUR:
 Draw the last circle on the right, but outside the rectangle.
