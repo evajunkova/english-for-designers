@@ -7,6 +7,6 @@ There are six objects
 - One of the circle is black and the rectangle is really thin
 - All objects are in the same angle and plane
 - The angle is about 45 degrees
-- Inside the rectangle are four circles = three circles are on the left side and one on the right side (between tree circles is one circle with black color)
+- Inside the rectangle are four circles = three circles are on the left side and one on the right side (between three circles is one circle with black color)
 - The last circle is on the right side, but outside the rectangle
 
