@@ -14,15 +14,15 @@ Short description
 
 HERE WE GO! :)
 
-STEP ONE
+STEP ONE:
 Draw thin rectangle about 45 degrees.
 
-STEP TWO
+STEP TWO:
 Draw four circles inside the rectangle. Three circles on the right side and one circle on the left side.
 
-STEP THREE
+STEP THREE:
 Color black the middle circle on the left.
 
-STEP FOUR
+STEP FOUR:
 Draw the last circle on the right, but outside the rectangle.
 
