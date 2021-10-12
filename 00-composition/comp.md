@@ -1,6 +1,5 @@
 # Test
 
-![Composition 1](https://jgagne.github.io/ajovt3-zs21-vskk/img/00-composition/01-comp.png)
 
 Short description
 
@@ -26,3 +25,6 @@ Color black the middle circle on the left.
 STEP FOUR:
 Draw the last circle on the right, but outside the rectangle.
 
+IT SHOULD LOOK LIKE THIS!
+
+![Composition 1](https://jgagne.github.io/ajovt3-zs21-vskk/img/00-composition/01-comp.png)
