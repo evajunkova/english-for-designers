@@ -22,5 +22,5 @@
 7. Short description about yourself and the work.
 ![image](00-composition/img/07.jpg)
 
-8. Short description about yourself and the work.
+8. Digital illustration created in Procreate
 ![image](00-composition/img/08.jpg)
