@@ -2,7 +2,7 @@
 
 ## Work by Eva Junková
 
-Hi! My name is Eva Junková. I will show you some of my work. I prefer clear and easy design. 
+Hi! My name is Eva Junková. I will show you some of my work. I prefer clear, easy and harmonic design. 
 
 1. Collage poster created in Photoshop and Procreate - mood FRANCE
 ![image](00-composition/img/01.jpg)
