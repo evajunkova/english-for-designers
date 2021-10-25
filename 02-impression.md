@@ -15,7 +15,7 @@
 ![image](00-composition/img/04.jpg)
 
 5. Short description about yourself and the work.
-![image](00-composition/img/05.jpg)
+![image](00-composition/img/05..jpg)
 
 6. Short description about yourself and the work.
 ![image](00-composition/img/06.jpg)
