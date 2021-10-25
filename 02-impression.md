@@ -2,7 +2,7 @@
 
 ## Title — work by Rad Osm
 
-![Screenshot from title slide of presentation.](img/title-slide.png)
+(img/O1.jpg)
 
 Short description about yourself and the work.
 
