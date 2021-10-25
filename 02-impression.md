@@ -1,6 +1,6 @@
 # Impression
 
-## Title — work by Rad Osm
+## Work by Eva Junková
 
 !(img/O1.jpg)
 
