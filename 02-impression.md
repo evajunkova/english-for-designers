@@ -2,11 +2,12 @@
 
 ## Work by Eva Junková
 
+1. Short description about yourself and the work.
 ![image](00-composition/img/01.jpg)
 
-Short description about yourself and the work.
+2. Short description about yourself and the work.
+![image](00-composition/img/02.jpg)
 
-- [View Presentation](img/…)
 
 ### Notes
 
