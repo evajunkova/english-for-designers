@@ -2,7 +2,7 @@
 
 ## Work by Eva Junková
 
-!(img/O1.jpg)
+!(00-composition/img/01.jpg)
 
 Short description about yourself and the work.
 
