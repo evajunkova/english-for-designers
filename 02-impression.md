@@ -4,23 +4,23 @@
 
 Hi! My name is Eva Junková. I will show you some of my work. I prefer clear, easy and harmonic design. 
 
-1.**Alt text:** Collage poster created in Photoshop and Procreate - mood FRANCE 
+**Alt text:** Collage poster created in Photoshop and Procreate - mood FRANCE. Harmononic purple flower design. 
 ![image](00-composition/img/01.jpg)
 
-2.**Alt text:** Collage poster created in Photoshop and Procreate - mood NEW ZEALAND
+**Alt text:** Collage poster created in Photoshop and Procreate - mood NEW ZEALAND. Calm mother of nature. 
 ![image](00-composition/img/02.jpg)
 
-3.**Alt text:** Collage poster created in Photoshop and Procreate - mood CHINA
+**Alt text:** Blue collage poster created in Photoshop and Procreate - mood CHINA. Calm vibe of ocean.
 ![image](00-composition/img/03.jpg)
 
-4.**Alt text:** Web banners for online shop Pilulka CZ/SK
+**Alt text:** Web banners for online shop Pilulka CZ/SK. Playful and colorful composition.
 ![image](00-composition/img/04.jpg)
 
-5.**Alt text:** Web design for online shop Pilulka CZ/SK - colorful design
+**Alt text:** Web design for online shop Pilulka CZ/SK. Cheerful and colorful design.
 ![image](00-composition/img/05..jpg)
 
-7.**Alt text:** Wedding announcement 
+**Alt text:** Decent wedding announcement. Flowers in matte colors.
 ![image](00-composition/img/07.jpg)
 
-8.**Alt text:** Digital illustration created in Procreate / ink illustration / grey - black - white design
+**Alt text:** Digital and ink illustration created by myself. Harmonic and distinctive art. 
 ![image](00-composition/img/08.jpg)
