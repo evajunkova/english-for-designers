@@ -1,6 +1,6 @@
 # Eva Junková
 
-Hi! I am Eva, graphic designer, arranger, illustrator and dreamer. 
+Hi! I am Eva, graphic designer, arranger, illustrator and dreamer. Under this text you can see my partner for every day inspiration.
 
 ## My story
 
