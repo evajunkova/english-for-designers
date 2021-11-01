@@ -1,7 +1,7 @@
 
 # Moser presentation 
 
-I would like to introduce you my (not typical for me) recent project for glass shop MOSER. I got this big project from the manager from graphic design studio (Studio 66).
+I would like to introduce you my recent project for glass shop MOSER. I got this big project from graphic design studio (Studio 66).
 
 ## Brief
 
@@ -28,5 +28,5 @@ Manager gave me for this presentation only 2 days. These days were the most stre
 
 ## What this work gave me?
 
-This work gave me suggestion that I am not a robot and I have personal live. 
+This work gave me new experience with arranging, graphic design and cooperation with people.
 
