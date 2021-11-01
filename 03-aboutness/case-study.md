@@ -1,5 +1,5 @@
 
-# Moser presentation 
+# Moser presentation 🥂
 
 I would like to introduce you my recent project for glass shop MOSER. I got this big project from graphic design studio (Studio 66).
 
