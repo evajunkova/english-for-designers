@@ -22,6 +22,9 @@ The company didn't want typical christmas colors and decorations. So I had to ma
 - Snacks = gold macaroons named moser, vanilla rolls
 - Color pallette = dark green (eucalyptus), light green, gold, beige
 
+**Alt text:** Finny in natural habitat. 
+![image](finny.jpg)
+
 ## No time for stress
 
 Manager gave me for this presentation only 2 days. These days were the most stressful days of my life, because I didn't have enought informations and materials for this presentation. 
