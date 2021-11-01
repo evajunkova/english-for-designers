@@ -22,7 +22,7 @@ The company didn't want typical christmas colors and decorations. So I had to ma
 - Snacks = gold macaroons named moser, vanilla rolls
 - Color pallette = dark green (eucalyptus), light green, gold, beige
 
-**Alt text:** Finny in natural habitat. 
+**Alt text:** Snacks and decorations 
 ![image](moser1.jpg)
 
 ## No time for stress
