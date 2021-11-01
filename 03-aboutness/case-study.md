@@ -23,7 +23,7 @@ The company didn't want typical christmas colors and decorations. So I had to ma
 - Color pallette = dark green (eucalyptus), light green, gold, beige
 
 **Alt text:** Finny in natural habitat. 
-![image](finny.jpg)
+![image](moser1.jpg)
 
 ## No time for stress
 
