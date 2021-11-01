@@ -1,5 +1,7 @@
 # Eva Junková
 
+- [View Selected Case Study](case-study.md)
+
 Hi! I am Eva, graphic designer, arranger, illustrator and dreamer. Under this text you can see my partner for every day inspiration.
 
 **Alt text:** Finny in natural habitat. 
