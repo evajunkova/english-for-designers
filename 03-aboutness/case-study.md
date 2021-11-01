@@ -26,7 +26,7 @@ The company didn't want typical christmas colors and decorations. So I had to ma
 ![image](moser1.jpg)
 
 **Alt text:** Decoration in a shop window
-![image](moser3.jpg)
+![image](moser2.jpg)
 
 
 ## No time for stress
