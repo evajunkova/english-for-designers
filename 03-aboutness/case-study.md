@@ -25,6 +25,10 @@ The company didn't want typical christmas colors and decorations. So I had to ma
 **Alt text:** Snacks and decorations 
 ![image](moser1.jpg)
 
+**Alt text:** Decoration in a shop window
+![image](moser3.jpg)
+
+
 ## No time for stress
 
 Manager gave me for this presentation only 2 days. These days were the most stressful days of my life, because I didn't have enought informations and materials for this presentation. 
