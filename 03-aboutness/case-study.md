@@ -32,7 +32,7 @@ The company didn't want typical christmas colors and decorations. So I had to ma
 **Alt text:** Two beige tasty macaroons next to a green Christmas wreath. 
 ![image](moser1.jpg)
 
-**Alt text:** Decoration in a shop window
+**Alt text:** Christmas decoration in a shop window and transparent fabric in muted colors wrapped in cute lights.
 ![image](moser2.jpg)
 
 **Alt text:** Moser cups
