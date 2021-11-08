@@ -3,9 +3,14 @@
 
 I would like to introduce you my recent project for glass shop MOSER. I got this big project from graphic design studio (Studio 66).
 
+
+## About Moser
+
+Moser is a Czech company focused on the production of lead-free handcrafted luxury crystal. The company began in 1857 when Ludwig Moser, a talented engraver and businessman opened an engraving workshop and store in the spa town of Karlovy Vary. The Moser trademark became the world's concept of luxury crystal and the symbol of perfect manual processing.
+
 ## Brief
 
-In the beginning, they gave me some materials and information about brand. Also I cooperated with two girls from production. So we had little team for this project.
+In the beginning, they gave me some materials and information about brand. Also I cooperated with two girls from production. So we had little team for this project. Deadline for this presentation was only two days instead of two weaks. It was very stressful. 
 
 - Christmas identity and arrangement for Moser
 - Staircase decoration, christmas wreaths
