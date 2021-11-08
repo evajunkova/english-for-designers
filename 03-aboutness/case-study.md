@@ -29,7 +29,7 @@ The company didn't want typical christmas colors and decorations. So I had to ma
 
 ## Slides of presentation 🎬
 
-**Alt text:** Snacks and decorations 
+**Alt text:** Two beige tasty macaroons next to a green Christmas wreath. 
 ![image](moser1.jpg)
 
 **Alt text:** Decoration in a shop window
