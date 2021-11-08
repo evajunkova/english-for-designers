@@ -35,7 +35,7 @@ The company didn't want typical christmas colors and decorations. So I had to ma
 **Alt text:** Christmas decoration in a shop window and transparent fabric in muted colors wrapped in cute lights.
 ![image](moser2.jpg)
 
-**Alt text:** Moser cups
+**Alt text:** Natural recycled cups with moser logo and colorful fabrics in muted colors.
 ![image](moser3.jpg)
 
 
