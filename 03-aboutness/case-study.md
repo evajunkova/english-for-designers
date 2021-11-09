@@ -43,7 +43,7 @@ The company didn't want typical christmas colors and decorations. So I had to ma
 
 Manager gave me for this presentation only 2 days. These days were the most stressful days of my life, because I didn't have enought informations and materials for this presentation. 
 
-## What this work gave me?
+## Final
 
-This work gave me new experience with arranging, graphic design and cooperation with people.
+This work gave me new experience with arranging, graphic design and cooperation with people. The presentation was complete in two days and everything was alright. 
 
