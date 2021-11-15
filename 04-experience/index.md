@@ -1,6 +1,6 @@
 
 
-# Eva Junková
+# Eva Junková 👩🏽‍💻
 
 # Summary
 
@@ -43,9 +43,11 @@ Junior Graphic Designer specializing in web design and package design. I focus o
 
 ### High School Duke Náhorní - 2015/2019
 - Specialization: Graphic design
+- Typography, Polygraphy, Digital design (Adobe creative cloud), Drawing (watercolor, ink painting, drawing act)
 
 ### College of creative communication - 2019/today
 - Specialization: Graphic design and multimedia
+- Web design, Package design, Marketing, Propagation, Visual identity
 
 
 # Skills
