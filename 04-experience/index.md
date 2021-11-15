@@ -8,7 +8,7 @@ Junior Graphic Designer specializing in web design and package design. I focus o
 
 - Phone: +420 731 789 971
 - Email: Evca.junk@seznam.cz
-- Adress: Hejtmanská 991/48 Praha 9 Kyje 198 00
+- Address: Hejtmanská 991/48 Praha 9 Kyje 198 00
 
 
 # Experience
