@@ -4,8 +4,8 @@
 
 Hi, my name is Eva Junková. I am graphic designer, illustrator, dreamer and creative person.
 
-Phone number: +420 731 789 971
-Email: Evca.junk@seznam.cz
+- Phone number: +420 731 789 971
+- Email: Evca.junk@seznam.cz
 
 
 # Experience
