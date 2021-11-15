@@ -23,19 +23,17 @@ Email: Evca.junk@seznam.cz
 
 ### Grand Optical / glasses seller - 2020
 
-Communication with customers, cashier's service, consultant. 
+- Communication with customers, cashier's service, consultant. 
 
 
 ### Internship in graphic and printing studio - 2019
 
-Cooperation with clients, production of business cards, work with the press.
-
-
+- Cooperation with clients, production of business cards, work with the press.
 
 
 ### Hostess Prague Car Festival - 2018
 
-Communication with visitors, introduction of new car models, distribution leaflets and magazines.
+- Communication with visitors, introduction of new car models, distribution leaflets and magazines.
 
 
 # Education
