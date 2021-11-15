@@ -45,7 +45,7 @@ Junior Graphic Designer specializing in web design and package design. I focus o
 - Specialization: Graphic design
 - Typography, Polygraphy, Digital design (Adobe creative cloud), Drawing (watercolor, ink painting, drawing act)
 
-### College of creative communication - 2019/today
+### College of creative communication - 2019/current
 - Specialization: Graphic design and multimedia
 - Web design, Package design, Marketing, Propagation, Visual identity
 
