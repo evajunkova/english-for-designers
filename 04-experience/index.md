@@ -12,13 +12,13 @@ Email: Evca.junk@seznam.cz
 
 ### Graphic designer for eshop Pilulka (CZ / SK) - 2021
 
-Creating banners, icons, newsletters, visual identities, text translation, working with text.
+- Creating banners, icons, newsletters, visual identities, text translation, working with text.
 
 
 
 ### Graphic artist of the Dance Center PRAGUE - 2020
 
-Creating posters, banners, icons, diplomas, prepress. Working with social networks (Instagram, Facebook). Newsletter and event design.
+- Creating posters, banners, icons, diplomas, prepress. Working with social networks (Instagram, Facebook). Newsletter and event design.
 
 
 ### Grand Optical / glasses seller - 2020
