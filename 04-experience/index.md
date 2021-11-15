@@ -69,4 +69,4 @@ Junior Graphic Designer specializing in web design and package design. I focus o
 - Gimp
 
 # CV
-- [Download CV (PDF)](pdf/cv-2021-11-ejunkova.pdf)
+- [Download CV (PDF)](cv-2021-11-evajunkova.pdf)
