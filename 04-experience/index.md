@@ -50,4 +50,4 @@ Hi, my name is Eva Junková. I am graphic designer, illustrator, dreamer and cre
 <!-- Not just software, please! See Caroline Win’s skills section: https://www.carolinewin.com/resume -->
 
 # CV
-- [Download CV (PDF)](pdf/cv-2021-11-jgagne.pdf) <!-- At the top or bottom? -->
+- [Download CV (PDF)](pdf/cv-2021-11-ejunkova.pdf)
