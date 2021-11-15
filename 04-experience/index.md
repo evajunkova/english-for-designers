@@ -38,10 +38,10 @@ Hi, my name is Eva Junková. I am graphic designer, illustrator, dreamer and cre
 
 # Education
 
-High School Duke Náhorní - 2015/2019
+### High School Duke Náhorní - 2015/2019
 - Specialization: Graphic design
 
-College of creative communication - 2019/today
+### College of creative communication - 2019/today
 - Specialization: Graphic design and multimedia
 
 
