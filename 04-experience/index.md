@@ -47,7 +47,21 @@ Hi, my name is Eva Junková. I am graphic designer, illustrator, dreamer and cre
 
 # Skills
 
-<!-- Not just software, please! See Caroline Win’s skills section: https://www.carolinewin.com/resume -->
+### Design
+
+- Sketching & Storyboarding
+- Illustrations
+- Package design and Mockups
+- Web design (banners, icons)
+- Specifications Documents
+
+### Design Tools
+
+- Adobe creative cloud (Photoshop, illustrator, InDesign, After Effects)
+- Procreate
+- Figma
+- Cinema 4D
+- Gimp
 
 # CV
 - [Download CV (PDF)](pdf/cv-2021-11-ejunkova.pdf)
