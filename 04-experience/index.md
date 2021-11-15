@@ -17,6 +17,7 @@ Creating banners, icons, newsletters, visual identities, text translation, worki
 
 
 Graphic artist of the Dance Center PRAGUE - 2020
+-
 
 Creating posters, banners, icons, diplomas, prepress. Working with social networks (Instagram, Facebook). Newsletter and event design.
 
