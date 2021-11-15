@@ -8,7 +8,7 @@ Phone number: +420 731 789 971
 Email: Evca.junk@seznam.cz
 
 
-## Experience
+# Experience
 
 ### Graphic designer for eshop Pilulka (CZ / SK) - 2021
 
@@ -38,7 +38,7 @@ Cooperation with clients, production of business cards, work with the press.
 Communication with visitors, introduction of new car models, distribution leaflets and magazines.
 
 
-## Education
+# Education
 
 High School Duke Náhorní - 2015/2019
 Specialization: Graphic design
@@ -47,7 +47,7 @@ College of creative communication - 2019/today
 Specialization: Graphic design and multimedia
 
 
-## Skills
+# Skills
 
 <!-- Not just software, please! See Caroline Win’s skills section: https://www.carolinewin.com/resume -->
 
