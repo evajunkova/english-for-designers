@@ -4,7 +4,7 @@
 
 
 
-- [View CV](04-experience/pdf/cv-stepnickova.pdf)
+- [View CV]()
 
 ## Work
 - Case Study: [Glass shop Moser](03-aboutness/03-aboutness.md)
@@ -14,4 +14,4 @@
 
 ## Contact
 
-- email: stepnickovadiana@gmail.com
+- email: Evca.junk@seznam.cz
