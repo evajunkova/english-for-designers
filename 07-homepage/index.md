@@ -12,6 +12,3 @@
 - Character and Description: [Character & Description](01-character-description/index.md)
 - Storytelling (WIP): [Mindboard in FigJam](https://app.milanote.com/1MW2Vj13qAZueP?p=pibd97cnoks)
 
-## Contact
-
-- email: Evca.junk@seznam.cz
