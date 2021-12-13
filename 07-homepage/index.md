@@ -11,4 +11,4 @@
 - Impression: [Portfolio pieces](https://evajunkova.github.io/english-for-designers/02-impression)
 - Character and Description: [Character & Description](https://evajunkova.github.io/english-for-designers/00-composition/01-character-description)
 - Storytelling: [Mindboard in FigJam](https://app.milanote.com/1MW2Vj13qAZueP?p=pibd97cnoks)
-- Extra-takeaways: čus
+- Extra: [Takeaways](https://evajunkova.github.io/english-for-designers/extra-takeaways/)
