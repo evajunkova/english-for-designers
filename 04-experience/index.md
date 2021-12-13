@@ -69,4 +69,4 @@ Junior Graphic Designer specializing in web design and package design. I focus o
 - Gimp
 
 # CV
-- [Download CV (PDF)](CV.jpg)
+- [Download CV (PDF)](CV-1.pdf)
