@@ -2,6 +2,8 @@
 
 ## About 👩🏽‍💻
 
+I am graphic designer and illustrator with 4 years of experience. I really like to work with visual identity, package design and online design. 
+
 
 
 - [View CV](CV-1.pdf)
