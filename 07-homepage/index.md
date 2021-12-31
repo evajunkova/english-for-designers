@@ -14,3 +14,7 @@ I am graphic designer and illustrator with 4 years of experience. I really like 
 - Character and Description: [Letter O](https://evajunkova.github.io/english-for-designers/00-composition/01-character-description)
 - Storytelling: [Mindboard in FigJam](https://app.milanote.com/1MW2Vj13qAZueP?p=pibd97cnoks)
 - Extra: [Takeaways](https://evajunkova.github.io/english-for-designers/extra-takeaways/)
+- Voice and tone: [Voice and tone](https://evajunkova.github.io/english-for-designers/05-voice-tone/)
+
+
+
