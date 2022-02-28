@@ -29,18 +29,16 @@ Quiet cafe, graphic design, visual identity, deaf, marketing, sign language, typ
 In my project, I want to spread better awareness about this handicap. The café will be not only for the deaf but also for the hearing.
 
 2. Purpose/hypothesis (thesis or statement of problem):
+My main purpose is to unify visual identity and marketing communication. I want the café to become known to the general public. I don't want it to be just a cafe, I want it to be a place where you can relax and get to know a new world (deaf world).
 
+3. Research — design/methodology/approach including procedures/data/observations:
+My research was based on books about design, typography and marketing. My aunt who is deaf helped me a lot. I asked her various questions about this handicap, which I can use in the charts. I also looked for other cafes in Prague, I focused on their websites, marketing communication and promotion. The competition analysis brought my work full of benefits
 
-4. Research — design/methodology/approach including procedures/data/observations:
+4. Findings (highlight outcome of research):
+The main finding was that the deaf did not want people to feel sorry for them. They are self-sufficient people who can teach us something more about quit word. 
 
-
-5. Findings (highlight outcome of research):
-
-
-6. Conclusions (significance/success of study to theory/practical/society):
+5. Conclusions (significance/success of study to theory/practical/society):
+I'm still working on it. The bachelor thesis is still evolving and a lot of things can change. 
 
 ## References
 
-<!-- Consider reference style for textual works, data sets, and audiovisual and online media. -->
-
-- [Writing and Developing a Thesis](https://goinswriter.com/writing-a-thesis-2/)
