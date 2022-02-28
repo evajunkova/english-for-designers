@@ -12,18 +12,10 @@ Quiet cafe is the first cafe in Prague with deaf staff. The company has become a
 
 My project focuses on connecting the world of the hearing and the deaf. The most important think for me is the overall unification of visual identity and the creation of marketing communication. I will create a new logo, posters, menu, uniforms and interier design for the company. This cafe is very special, because when you came inside you can't hear nothing. It is absolutelly calm and harmonic place. I was there last week and it was really cool. The service was very nice.
 
-
-<details>
-  <summary><b>Mind Map</b></summary>
-  <img alt="Gray box placeholder image, for position only." src="./img/thesis-mind-map.png">
-</details>
-
 ## Keywords
 Quiet cafe, graphic design, visual identity, deaf, marketing, sign language, typography, pictograms, social networks, advertisement
 
 ## Key Points
-
-<!-- Key points; aim for **30–60 words** each. -->
 
 1. Background/importance of topic: I think people should more talk about this handicap (deaf). 
 In my project, I want to spread better awareness about this handicap. The café will be not only for the deaf but also for the hearing.
