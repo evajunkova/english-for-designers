@@ -10,7 +10,7 @@ Quiet cafe is the first cafe in Prague with deaf staff. The company has become a
 
 ## Summary
 
-My project focuses on connecting the world of the hearing and the deaf. The most important think for me is the overall unification of visual immunity and the creation of marketing communication. I will create a new logo, posters, menu, uniforms and interier design for the company. This cafe is very special, because when you come inside you can't hear nothing. It is absolutelly calm and harmonic place. 
+My project focuses on connecting the world of the hearing and the deaf. The most important think for me is the overall unification of visual identity and the creation of marketing communication. I will create a new logo, posters, menu, uniforms and interier design for the company. This cafe is very special, because when you came inside you can't hear nothing. It is absolutelly calm and harmonic place. I was there last week and it was really cool. The service was very nice.
 
 
 <details>
