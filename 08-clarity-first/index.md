@@ -32,5 +32,5 @@ The main finding was that the deaf did not want people to feel sorry for them. T
 I'm still working on it. The bachelor thesis is still evolving and a lot of things can change. 
 
 ## Inspiration
-![image](08-clarity-first/inspiration.jpg)
+![image](inspiration.jpg)
 
