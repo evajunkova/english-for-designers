@@ -1,8 +1,7 @@
 - [Summary](#summary)
-- [Mind Map](#mind-map)
 - [Keywords](#keywords)
 - [Key Points](#key-points)
-- [References](#references)
+- [Inspiration](#inspiration)
 
 # Quiet cafe
 
@@ -32,5 +31,5 @@ The main finding was that the deaf did not want people to feel sorry for them. T
 5. Conclusions (significance/success of study to theory/practical/society):
 I'm still working on it. The bachelor thesis is still evolving and a lot of things can change. 
 
-## References
+## Inspiration
 
