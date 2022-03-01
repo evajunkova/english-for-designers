@@ -33,5 +33,7 @@ I'm still working on it. The bachelor thesis is still evolving and a lot of thin
 
 ## Inspiration
 ![image](inspiration.jpg)
+
+
 I am working with sound wave in my visual identity. So here is some of mine inspiration that I found on pinterest. 
 
