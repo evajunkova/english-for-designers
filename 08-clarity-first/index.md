@@ -1,5 +1,4 @@
 - [Summary](#summary)
-- [What problems did the project solve?](#What problems did the project solve?)
 - [Keywords](#keywords)
 - [Key Points](#key-points)
 - [Inspiration](#inspiration)
@@ -13,6 +12,17 @@ Quiet cafe is the first cafe in Prague with deaf staff. The company has become a
 My project focuses on connecting the world of the hearing and the deaf. The most important think for me is the overall unification of visual identity and the creation of marketing communication. I will create a new logo, posters, menu, uniforms and interier design for the company. This cafe is very special, because when you came inside you can't hear nothing. It is absolutelly calm and harmonic place. I was there last week and it was really cool. The service was very nice.
 
 ## What problems did the project solve?
+
+My project focuses on connecting two worlds - the deaf and the hearing. The café focuses only on the deaf, so my goal is to bring a lot of new people to the café, especially the hearing, because they didn't know anything about this place. Also this cafe doesn't work on social media, so I want to change it. 
+
+## What actions did you take to this project?
+
+I did an overall analysis of the cafe. For example, if people know this place or if they have ever been there. Also I research other cafes (rivals), because I wanted to know their advantages and disadvantages. The most important thing was that I spend some time in Queit cafe, because I needed to find out how it works there. 
+
+## How successful where you in solving the problem?
+
+I think there is still a long way to go, but I still did well. The time spent in the cafe helped me with visual and marketing communication. Thanks to that, I realized what advantages the café has and what would need to be improved.
+
 
 ## Keywords
 Quiet cafe, graphic design, visual identity, deaf, marketing, sign language, typography, pictograms, social networks, advertisement
