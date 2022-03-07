@@ -27,7 +27,7 @@ I think there is still a long way to go, but I still did well. The time spent in
 ## Mind map
 <details>
   <summary><b>Mind Map</b></summary>
-  <img alt="Gray box placeholder image, for position only." src="./img/thesis-mind-map.png">
+  <img alt="Gray box placeholder image, for position only." src="./img/08-clarity-first-mindmap.jng">
 </details>
 
 
