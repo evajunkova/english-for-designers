@@ -25,10 +25,7 @@ I did an overall analysis of the cafe. For example, if people know this place or
 I think there is still a long way to go, but I still did well. The time spent in the cafe helped me with visual and marketing communication. Thanks to that, I realized what advantages the café has and what would need to be improved.
 
 ## Mind map
-<details>
-  <summary><b>Mind Map</b></summary>
-  <img alt="Gray box placeholder image, for position only." src="./img/08-clarity-first-mindmap.jng">
-</details>
+![image](mindmap.jpg)
 
 
 ## Keywords
