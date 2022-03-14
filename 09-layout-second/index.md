@@ -12,9 +12,7 @@ Quiet cafe, deaf, graphic design, pictograms, design strategy, creative communic
 
 Quiet cafe - visual communication
 
-<-- Add a link to your presentation or add presentation content in Markdown here. -->
-
-### Old/New logo 
+### Logo 
 ### Pictograms 
 ### Posters
 ### Instagram post
