@@ -12,6 +12,7 @@ Quiet cafe, deaf, graphic design, pictograms, design strategy, creative communic
 
 Quiet cafe - visual communication
 
+### Inspiration
 ### Logo 
 ### Pictograms 
 ![image](pictograms.jpg)
@@ -20,4 +21,4 @@ There will be some changes, I need to consult some things about poster design wi
 ![image](poster1.jpg)
 ![image](poster2.jpg)
 ### Instagram post
-### Inspiration
+![image](Instagram.jpg)
