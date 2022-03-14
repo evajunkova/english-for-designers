@@ -16,5 +16,7 @@ Quiet cafe - visual communication
 ### Pictograms 
 ![image](pictograms.jpg)
 ### Posters
+![image](poster1.jpg)
+![image](poster2.jpg)
 ### Instagram post
 ### Inspiration
