@@ -14,6 +14,7 @@ Quiet cafe - visual communication
 
 ### Inspiration
 ### Logo 
+![image](Logo.jpg)
 ### Pictograms 
 ![image](pictograms.jpg)
 ### Posters
