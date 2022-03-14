@@ -16,6 +16,7 @@ Quiet cafe - visual communication
 ### Pictograms 
 ![image](pictograms.jpg)
 ### Posters
+There will be some changes, I need to consult some things about poster design with my profesor. 
 ![image](poster1.jpg)
 ![image](poster2.jpg)
 ### Instagram post
