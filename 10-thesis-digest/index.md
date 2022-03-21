@@ -1,12 +1,6 @@
-Title: Digest: …
 
-# Running Title: …
 
-<!--
-A running title is an abbreviated form of the main title, usually cited at the top of each published page or left-hand text pages.
-
-If your title is already short, use your actual title. If your title is not very short, use an abbreviated version of it as the running title.
--->
+# Quiet cafe
 
 Author Name(s): Eva Junková
 
@@ -15,12 +9,12 @@ E-mail(s): Evca.junk@seznam.cz
 
 ## Abstract
 
-<!-- Abstract that introduces the question being investigated by the study and briefly summarizes the
-findings. Less than 75 words. -->
+I want to connect two worlds that have not been connected yet. Connecting the deaf and hearing will bring a lot of new customers to the cafe. These two groups will share new knowledge and experience to eachother.
 
 ## Keywords
 
-<!-- comma separated terms, all in lowercase letters, and arranged alphabetically  -->
+Quiet cafe, deaf, graphic design, pictograms, design strategy, creative communication.
+
 
 ## Main Text
 
@@ -35,7 +29,11 @@ Consider these four sections:
 
 ## References
 
-<!-- Use an unordered list, arranged alphabetically by author’s surname.  -->
+Design thinking - Graphic design - Gavin Ambrose / Paul Harris
+Social networks - How to work with them - Michelle Losekoot / Eliška Vyhnánková
+History of graphic design - Richard Hollis 
+Logo and corporate identity - Ondřej Kafka / Michal Korytza 
+Image and corporate identity - Jitka Vysekalová / Jiří Mikeš / Jan Binar
 
 ## Images
 
