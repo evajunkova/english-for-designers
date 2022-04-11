@@ -26,6 +26,10 @@ This bachelor looks into vision communication ‘'Tichá kavárna’' in Prague.
 ## Images
 
 ### Posters
-### Pictograms
+![image](1Plakaty.jpg)
 ### Merchandasing
+![image](2Tricka.jpg)
 ### Paper boxes
+![image](3Boxy.jpg)
+### Stickers
+![image](4Samolepky.jpg)
