@@ -29,7 +29,7 @@ This bachelor looks into vision communication ‘'Tichá kavárna’' in Prague.
 I have three type of poster. First for the deaf people, second for hearing and third for both. For hearing I used sound wave and for deaf people I used colorful aura (aura brings emotion). On the third poster you can se the mix of the sound wave and aura. 
 ![image](1Plakaty.jpg)
 ### Merchandasing
-T-shirts are made for more people. The wave connect family, friends, partners. Every color in wave has meaning. Orange = positive, energy / Purple = neutral, mystery and blue = devilish, cold. The friends can wear t-shirt with typical behavior. 
+T-shirts are made for more people. The wave connect family, friends, partners. Every color in wave has meaning. Orange = positive, energy / Purple = neutral, mystery and blue = devilish, cold. The friends can wear t-shirt with their typical behavior. 
 ![image](2Tricka.jpg)
 ### Paper boxes
 The paper box shows the temperature inside the box, so you can know if your food is still hot or cold. 
