@@ -10,7 +10,7 @@ Acknowledgement(s): I would like to thank Mr. John Kolář for his guidance writ
 
 Data Accessibility/Availability Statement: There is no data archived.
 
-Word count: 532
+Word count: 485
 
 # Digest: Visual identity of Silence cafe
 
