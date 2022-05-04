@@ -19,7 +19,7 @@ I am graphic designer and illustrator with 4 years of experience. I really like 
 - Clarity first: [The Silent cafe](https://evajunkova.github.io/english-for-designers/08-clarity-first/)
 - Layout second: [Visual identity and complete redesign](https://evajunkova.github.io/english-for-designers/09-layout-second/)
 - Thesis digest: [Unified visual identity](https://evajunkova.github.io/english-for-designers/10-thesis-digest/)
-- Presentation: [Bachelor thesis journey](https://ajovt-1-21-22.slack.com/files/U02GA7US3PZ/F03E2MXKN2E/bachelor_thesis_presentation.pdf)
+- Presentation: [Bachelor thesis journey] You can download it on Slack 😍
 - Year review: [Justin!](https://evajunkova.github.io/english-for-designers/05-voice-tone/)
 
 
