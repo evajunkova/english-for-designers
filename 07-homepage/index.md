@@ -16,10 +16,10 @@ I am graphic designer and illustrator with 4 years of experience. I really like 
 - Extra: [Takeaways](https://evajunkova.github.io/english-for-designers/extra-takeaways/)
 - Voice and tone: [Voice and tone](https://evajunkova.github.io/english-for-designers/05-voice-tone/)
 ## Summer semestr ☀️
-- Clarity first: [The Silent cafe](https://evajunkova.github.io/english-for-designers/03-aboutness/case-study.html)
-- Layout second: [Visual identity](https://evajunkova.github.io/english-for-designers/02-impression)
-- Thesis digest: [Unified visual identity](https://evajunkova.github.io/english-for-designers/00-composition/01-character-description)
-- Presentation: [Bachelor thesis journey](https://app.milanote.com/1MW2Vj13qAZueP?p=pibd97cnoks)
+- Clarity first: [The Silent cafe](https://evajunkova.github.io/english-for-designers/08-clarity-first/)
+- Layout second: [Visual identity and complete redesign](https://evajunkova.github.io/english-for-designers/09-layout-second/)
+- Thesis digest: [Unified visual identity](https://evajunkova.github.io/english-for-designers/10-thesis-digest/)
+- Presentation: [Bachelor thesis journey](https://ajovt-1-21-22.slack.com/files/U02GA7US3PZ/F03E2MXKN2E/bachelor_thesis_presentation.pdf)
 - Year review: [Justin!](https://evajunkova.github.io/english-for-designers/05-voice-tone/)
 
 
