@@ -7,7 +7,7 @@ Every time I start presenting something to the client, I will prepare documents 
 I try to conduct the presentation with calm and understanding. The presentation should not be just about reading slides, but about passing the topic on to the audience.
 
 I always try to:
-1. Be 100% ready on presenation
+1. Be 100% ready on presentation
 2. Be excited about the topic
 3. Maintain eye contact with the audience
 4. Always smile even when I'm nervous
