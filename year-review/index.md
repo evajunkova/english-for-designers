@@ -21,4 +21,4 @@ Nothing! everythink was perfect!
 ## 10. What advice would you give to students going into this subject next year?
 Just enjoy the class and do github homeworks. :)
 
-# Thank you Justin for a nice year in school. 🌟☺️
+# Thank you Justin for a nice year in school! 🌟☺️
