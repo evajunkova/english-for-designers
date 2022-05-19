@@ -15,6 +15,9 @@ I am graphic designer and illustrator with 4 years of experience. I really like 
 - Storytelling: [Mindboard in FigJam](https://app.milanote.com/1MW2Vj13qAZueP?p=pibd97cnoks)
 - Extra: [Takeaways](https://evajunkova.github.io/english-for-designers/extra-takeaways/)
 - Voice and tone: [Voice and tone](https://evajunkova.github.io/english-for-designers/05-voice-tone/)
+
+##
+
 ## Summer semestr ☀️
 - Clarity first: [The Silent cafe](https://evajunkova.github.io/english-for-designers/08-clarity-first/)
 - Layout second: [Visual identity and complete redesign](https://evajunkova.github.io/english-for-designers/09-layout-second/)
